@@ -1,4 +1,4 @@
-# This is learning project use REACT, that simulate som Twitter functions.
+# This is learning project use REACT, that simulate some Twitter functions.
 
 
 
